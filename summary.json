@@ -1,0 +1,15 @@
+{
+ "chain": "arbitrum-one",
+ "contract": "0xdffe8a4a4103f968ffd61fd082d08c41dcf9b940",
+ "block": 516912665,
+ "bounties": 496,
+ "completed": 278,
+ "cancelled": 169,
+ "nft_supply": 722,
+ "wallets": 414,
+ "claim_submitters": 374,
+ "holders": 80,
+ "nfts_in_contract_pending": 444,
+ "total_paid_out_eth": "3.726923002",
+ "total_earned_eth": "3.726923002"
+}
